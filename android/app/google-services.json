@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776113106729",
+    "project_id": "uni-to-do",
+    "storage_bucket": "uni-to-do.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776113106729:android:e302bae781910f012e1138",
+        "android_client_info": {
+          "package_name": "com.task.unicode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpvw3Mdu02yLn3neNtOHlBs0qmpDVtMYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
